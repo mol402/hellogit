@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World123ssddd1.1.0!s" );
+        System.out.println( "Hello World123ssddd1.2.0!s" );
     }
 }
